@@ -3,3 +3,8 @@ body
     background-color: violet;
     color: yellowgreen;
 }
+h1
+{
+    font-style:italic;
+    color: violet;
+}
